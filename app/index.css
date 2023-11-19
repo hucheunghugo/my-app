@@ -1,0 +1,67 @@
+.Topic {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 16px;
+  }
+  
+  .Topic h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .Topic p {
+    color: #666;
+    font-size: 16px;
+  }
+  
+  .Topic button {
+    background-color: #f1c40f;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .Topic button:hover {
+    background-color: #e2b60a;
+  }
+  
+  .Topic .highlight {
+    background-color: yellow;
+    font-weight: bold;
+  }
+  
+  .table {
+    width: 100%;
+    border: 1px solid;
+    text-align: center;
+  }
+
+  .table-head {
+    width: calc(100% / 3);
+    font-size: 40px;
+    height:40px;
+    border: 1px solid;
+    text-align: center;
+  }
+  
+  .table-cell {
+    width: calc(100% / 3);
+    height:20px;
+    border: 1px solid;
+    text-align: center;
+  }
+  
+  .button {
+    display: block;
+    width: calc(100% / 3);
+    text-align: center;
+    padding: 10px 20px;
+    background-color: #0070f3;
+    color: #fff;
+    text-decoration: none;
+  }

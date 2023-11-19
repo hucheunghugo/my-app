@@ -1,0 +1,36 @@
+.Topic {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .Topic h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .Topic p {
+    color: #666;
+    font-size: 16px;
+  }
+  
+  .Topic button {
+    background-color: #f1c40f;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .Topic button:hover {
+    background-color: #e2b60a;
+  }
+  
+  .Topic .highlight {
+    background-color: yellow;
+    font-weight: bold;
+  }
